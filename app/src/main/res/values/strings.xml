@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PetFeed</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="kucing">Jenis Binatang:Kucing</string>
+    <string name="kucing2">Jenis Kelamin:Cowok</string>
+    <string name="kucing3">Berat Badan:43kg</string>
+    <string name="kucing4">Jenis Kelamin:Cewek</string>
+    <string name="tentang_kucing">Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.
+Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari kerangka kucing di Pulau Siprus. Orang Mesir Kuno dari 3.500 SM telah menggunakan kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil panen.</string>
+    <string name="tentang_kucing2">Jaga kebersihan kandang dan bak pasir,cek suhu dan kelembaman,Perhatikan makanana dan minuman,dan yang paling penting rutin vaksinasi vitamin 2x sehari</string>
+    <string name="tentang3_kucing">Sibuk mengurus rumah tangga,malas me-monitoring pemberian vitamin karena kesibukan</string>
+    <string name="glosarium_tentang_kucing">Glosarium Tentang Kucing</string>
+    <string name="cara_memelihara_kucing">Cara Memelihara Kucing</string>
+    <string name="nama_pemilik">Nama Pemilik</string>
+    <string name="email">Email</string>
+    <string name="umur_kucing">Umur Kucing</string>
+    <string name="jenis_kucing">Jenis Kucing</string>
+    <string name="masalah">Masalah</string>
+    <string name="glosarium_tentang_anjing">Glosarium Tentang Anjing</string>
+    <string name="tentang_anjing">Anjing adalah mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu atau mungkin sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA.Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama.
+Anjing telah berkembang menjadi ratusan ras dengan berbagai macam variasi. Warna rambut anjing bisa beraneka ragam, mulai dari putih sampai hitam, juga merah, abu-abu (sering disebut "biru"), dan coklat. Selain itu, anjing memiliki berbagai jenis rambut. Rambut anjing bisa lurus atau keriting, dan bertekstur kasar hingga lembut seperti benang wol.</string>
+    <string name="tentang_anjing3">Sibuk mengurus rumah tangga,malas me-monitoring pemberian vitamin karena kesibukan</string>
+    <string name="tentang_anjing2">Jaga kebersihan kandang dan bak pasir,cek suhu dan kelembaman,Perhatikan makanana dan minuman,dan yang paling penting rutin vaksinasi vitamin 2x sehari</string>
+    <string name="cara_memelihara_anjing">Cara Memelihara Anjing</string>
+    <string name="nama_anjing">Nama Anjing</string>
+    <string name="umur_anjing">Umur Anjing</string>
+    <string name="jenis_anjing">Jenis Anjing</string>
+</resources>

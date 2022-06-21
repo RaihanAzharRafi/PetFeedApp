@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.raihanazharrafi.pkl.IntroActivity">
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/dots_bottom"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/layout_Dots"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dots_height">
+    </LinearLayout>
+    <View
+        android:background="@color/White"
+        android:layout_above="@id/layout_Dots"
+        android:alpha=".5"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+    <Button
+        android:onClick="btnNextClick"
+        android:text="Next"
+        android:background="@drawable/rec_gradient_btn2"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/btn_lanjut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
